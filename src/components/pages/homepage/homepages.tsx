@@ -4,6 +4,6 @@ type Props = {}
 
 export default function Homepage({}: Props) {
   return (
-    <div>homepages</div>
+    <div>newhomepages</div>
   )
 }
